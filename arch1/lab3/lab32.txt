@@ -1,0 +1,134 @@
+-O0
+M=736	N=736	v=13
+B=0.281 Gbyte/s
+Number of threads=1
+ijk
+P=0.0892 GFLOP/s
+I=92 FLOP/byte
+T=8.94 s
+Number of threads=2
+ijk
+P=0.173 GFLOP/s
+I=92 FLOP/byte
+T=4.62 s
+Number of threads=3
+ijk
+P=0.251 GFLOP/s
+I=92 FLOP/byte
+T=3.17 s
+Number of threads=4
+ijk
+P=0.33 GFLOP/s
+I=92 FLOP/byte
+T=2.42 s
+M=1056	N=1056	v=13
+B=0.313 Gbyte/s
+Number of threads=1
+ijk
+P=0.0833 GFLOP/s
+I=132 FLOP/byte
+T=28.3 s
+Number of threads=2
+ijk
+P=0.165 GFLOP/s
+I=132 FLOP/byte
+T=14.3 s
+Number of threads=3
+ijk
+P=0.243 GFLOP/s
+I=132 FLOP/byte
+T=9.67 s
+Number of threads=4
+ijk
+P=0.317 GFLOP/s
+I=132 FLOP/byte
+T=7.42 s
+M=1696	N=1696	v=13
+B=0.334 Gbyte/s
+Number of threads=1
+ijk
+P=0.0597 GFLOP/s
+I=212 FLOP/byte
+T=163 s
+Number of threads=2
+ijk
+P=0.118 GFLOP/s
+I=212 FLOP/byte
+T=82.8 s
+Number of threads=3
+ijk
+P=0.171 GFLOP/s
+I=212 FLOP/byte
+T=56.9 s
+Number of threads=4
+ijk
+P=0.204 GFLOP/s
+I=212 FLOP/byte
+T=47.9 s
+-O3
+M=736	N=736	v=13
+B=0.944 Gbyte/s
+Number of threads=1
+ijk
+P=0.265 GFLOP/s
+I=92 FLOP/byte
+T=3.01 s
+Number of threads=2
+ijk
+P=0.215 GFLOP/s
+I=92 FLOP/byte
+T=3.71 s
+Number of threads=3
+ijk
+P=0.402 GFLOP/s
+I=92 FLOP/byte
+T=1.98 s
+Number of threads=4
+ijk
+P=0.459 GFLOP/s
+I=92 FLOP/byte
+T=1.74 s
+M=1056	N=1056	v=13
+B=1.25 Gbyte/s
+Number of threads=1
+ijk
+P=0.235 GFLOP/s
+I=132 FLOP/byte
+T=10 s
+Number of threads=2
+ijk
+P=0.229 GFLOP/s
+I=132 FLOP/byte
+T=10.3 s
+Number of threads=3
+ijk
+P=0.441 GFLOP/s
+I=132 FLOP/byte
+T=5.35 s
+Number of threads=4
+ijk
+P=0.481 GFLOP/s
+I=132 FLOP/byte
+T=4.9 s
+M=1696	N=1696	v=13
+B=1.27 Gbyte/s
+Number of threads=1
+ijk
+P=0.124 GFLOP/s
+I=212 FLOP/byte
+T=78.6 s
+Number of threads=2
+ijk
+P=0.218 GFLOP/s
+I=212 FLOP/byte
+T=44.7 s
+Number of threads=3
+ijk
+P=0.297 GFLOP/s
+I=212 FLOP/byte
+T=32.9 s
+Number of threads=4
+ijk
+P=0.352 GFLOP/s
+I=212 FLOP/byte
+T=27.7 s
